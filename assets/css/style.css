@@ -1,0 +1,13 @@
+html, body {
+	background:grey;
+}
+
+div.jumbotron {
+	background: url(../img/train.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#text {
+	visibility: hidden;
+}
